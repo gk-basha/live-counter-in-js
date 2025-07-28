@@ -1,0 +1,42 @@
+body{
+ margin:0;
+ box-sizing: border-box;
+ padding:0;
+  background-image: url(https://i.pinimg.com/originals/74/c6/49/74c6493f6c6ef05ab497872b9ddd1907.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.live-counter-container{
+   
+    margin-left:500px;
+    margin-top:250px;
+    box-shadow: 2px solid grey;
+    width:500px;
+    height: 300px;
+    font-family:sans-serif;
+    font-size: medium;
+    font-weight: bolder;
+    
+}
+.live-counter{
+    background-color: aqua;
+    height: 200px;
+    border-radius: 10px;
+    box-shadow: 20px 20px ; 
+
+}
+.live-counter h1{
+    color:red;
+    padding-left: 20px;
+}
+
+.live-counter textarea{
+    padding:10px;
+   margin-left:150px;
+}
+
+.live-counter .result{
+    margin-top: 200px;
+    margin-left: 150px;
+}
